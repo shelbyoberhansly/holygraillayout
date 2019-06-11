@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.header {
+  height: px;
+
+}
+.content {
+  height: 100px;
+  
+  
+}
+
+.left,
+.center,
+.right {
+  flex: 1;
+  
+}
+
+.left {
+  background-color: #ABC6A9;
+  
+}
+
+.center {
+  background-color: #1B2023;
+
+}
+
+.right {
+  background-color: #ABC6A9;
+}
+
+.footer {
+  background-color: #55905F;
+}
